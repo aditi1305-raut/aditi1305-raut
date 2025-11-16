@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditi Shivaji Raut</h1>
+<h1 align="center">Hi there! 👋  
+I'm Aditi Raut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
+
 <h3 align="center">Software Developer | Python | Django | Machine Learning | Data Analysis</h3>
 
 ---
