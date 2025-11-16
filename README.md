@@ -13,7 +13,7 @@ Motivated and detail-oriented **Computer Engineering graduate** with hands-on ex
 I love building intelligent systems that solve real-world problems, automate manual work,  
 and improve efficiency. Excited to contribute to innovative projects in a dynamic environment.  
 
-📍 Baramati, Maharashtra  
+📍 Pune, Maharashtra  
 📧 **Email:** aditiraut306@gmail.com  
 📱 **Phone:** 8767464245  
 🔗 **LinkedIn:** www.linkedin.com/in/aditi-raut-8b82a8292  
