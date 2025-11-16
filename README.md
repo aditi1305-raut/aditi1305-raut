@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Aditi+Raut!;Software+Developer;Python+%7C+Django+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi there! 👋  
-I'm Aditi Raut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
+
 
 <h3 align="center">Software Developer | Python | Django | Machine Learning | Data Analysis</h3>
 
